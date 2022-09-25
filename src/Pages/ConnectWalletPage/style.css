@@ -1,0 +1,19 @@
+.sing-in-btn {
+  padding: 10px 16px;
+  border-radius: 4px;
+}
+
+.logo {
+}
+.logo-text {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 30px;
+}
+.tab-item {
+  color: white;
+}
+.token-items {
+  border: 1px solid #000000;
+  border-radius: 11px;
+}

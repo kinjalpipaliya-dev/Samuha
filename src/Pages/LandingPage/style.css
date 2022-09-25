@@ -1,0 +1,8 @@
+.landing-main {
+  background-color: black;
+  background-image: url("../../Assets/Landing.png");
+  background-repeat: no-repeat;
+  background-size: 1150px 650px;
+  background-position: center;
+  min-height: 100vh;
+}
